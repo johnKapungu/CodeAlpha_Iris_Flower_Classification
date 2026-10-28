@@ -142,7 +142,6 @@ CodeAlpha_Iris_Flower_Classification/
 ├── figures/
 │   ├── svm_classification_metrics.csv
 │   ├── svm_predictions_report.csv
-
 │
 ├── models/
 │   └── best_svm_model.joblib
@@ -161,11 +160,10 @@ Install Python 3.10 or a compatible version supported by your selected Scikit-le
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/iris-flower-classification.git
-cd iris-flower-classification
+git clone :https://github.com/johnKapungu/CodeAlpha_Iris_Flower_Classification.git
+cd CodeAlpha_Iris_Flower_Classification
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username and update the repository URL as necessary.
 
 ### 2. Create a virtual environment
 
@@ -254,6 +252,4 @@ The final model should be selected based on cross-validation performance, verifi
 
 - Location: Dodoma, Tanzania
 - LinkedIn: [John Kapungu](https://linkedin.com/in/john-kapungu)
-- GitHub: Add your GitHub profile or repository URL here.
-
-## License
+- GitHub: CodeAlpha_Iris_Flower_Classification.
